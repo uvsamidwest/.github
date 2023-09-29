@@ -11,7 +11,7 @@ Welcome to UVSA-Midwest's GitHub organization! This is where we will be hosting 
 | Cabinet Web Development | Brian | Steven, Martin, Khanh, Kevinh |
 | Cabinet App Development | Steven | Brian, Martin, Khanh |
 | Cabinet Analytics | Hao | Brendan, Vati |
-| VIA-1 Web Development | Peter | Oliver, Andrew, Kinhkha, Khanh, Tam |
+| VIA-1 Web Development | Peter | Oliver, Andrew, Kha, Khanh, Tam |
 
 ## Projects
 
@@ -24,3 +24,4 @@ Welcome to UVSA-Midwest's GitHub organization! This is where we will be hosting 
 - Website 2.0
 - App (iOS, Android, Web)
 - Analytics Dashboard
+- Business Technology
