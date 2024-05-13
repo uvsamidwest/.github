@@ -2,9 +2,18 @@
 
 ## Introduction
 
-Welcome to UVSA-Midwest's GitHub organization! This is where we will be hosting all of our code starting the 2023-2024 term. This is a work in progress, so please bear with us as we get everything set up.
+Welcome to UVSA-Midwest's GitHub organization! This is where we will be hosting all of our code starting the 2023-2024 term.
 
 ## Teams
+
+### 2024-2025
+
+| Team | Lead(s) | Members |
+| ---- | --------- | ------------ |
+| Cabinet Technology | Selena, Kinhkha | Charlene, Kenny, Tony |
+| VIA-1 Web Development | | |
+
+### 2023-2024
 
 | Team | Lead | Members |
 | ---- | --------- | ------------ |
@@ -15,13 +24,7 @@ Welcome to UVSA-Midwest's GitHub organization! This is where we will be hosting 
 
 ## Projects
 
-### Active
-
-- [Official Website](https://www.uvsamidwest.org/)
-
-### In Development
-
-- Website 2.0
-- App (iOS, Android, Web)
-- Analytics Dashboard
-- Business Technology
+- [Website](https://www.uvsamidwest.org/)
+- [Web App](https://app.uvsamidwest.org/)
+- [iOS App](https://apps.apple.com/us/app/uvsa-midwest/id6477414258)
+- [Android App](https://play.google.com/store/apps/details?id=org.uvsamidwest.app)
