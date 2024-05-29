@@ -10,7 +10,7 @@ Welcome to UVSA-Midwest's GitHub organization! This is where we will be hosting 
 
 | Team | Lead(s) | Members |
 | ---- | --------- | ------------ |
-| Cabinet Technology | Selena, Kinhkha | Charlene, Kenny, Tony |
+| Cabinet Technology | Selena, Kinhkha | Charlene, Kenny, Tony, Ella |
 | VIA-1 Web Development | | |
 
 ### 2023-2024
