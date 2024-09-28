@@ -10,8 +10,8 @@ Welcome to UVSA-Midwest's GitHub organization! This is where we will be hosting 
 
 | Team | Lead(s) | Members |
 | ---- | --------- | ------------ |
-| Cabinet Technology | [Selena](https://github.com/szheng14), [Kinhkha](https://github.com/KinhkhaTran) | Charlene, Kenny, Tony, Ella, Edison, Vinh |
-| VIA-1 Web Development | | |
+| Cabinet Technology | [Selena](https://github.com/szheng14), [Kinhkha](https://github.com/KinhkhaTran) | Charlene, [Kenny](https://github.com/Kennyan2), [Tony](https://github.com/ttran-osu), [Ella](https://github.com/ellatnguyen), [Edison](https://github.com/EdiChiu), [Vinh](https://github.com/mvinty) |
+| VIA-1 Web Development | [Oliver](https://github.com/OlieWu) | [Morgan](https://github.com/morganguyen), [Charlie](https://github.com/mewtow2463), [Bonnie](https://github.com/sillypop200), [Christina](https://github.com/chrat33ny), [Tam](https://github.com/vincenttrin) |
 
 ### 2023-2024
 
