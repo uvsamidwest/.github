@@ -6,6 +6,14 @@ Welcome to UVSA-Midwest's GitHub organization! This is where we will be hosting 
 
 ## Teams
 
+### 2025-2026
+
+| Team | Lead(s) | Members |
+| ---- | --------- | ------------ |
+| Web Development | [Selena](https://github.com/szheng14) | |
+| App Development | [Kinhkha](https://github.com/KinhkhaTran) | |
+| Analytics | [Tony](https://github.com/ttran-osu) | |
+
 ### 2024-2025
 
 | Team | Lead(s) | Members |
