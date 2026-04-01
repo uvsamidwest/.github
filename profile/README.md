@@ -10,9 +10,9 @@ Welcome to UVSA-Midwest's GitHub organization! This is where we will be hosting 
 
 | Team | Lead(s) | Members |
 | ---- | --------- | ------------ |
-| Web Development | [Selena](https://github.com/szheng14) | |
-| App Development | [Kinhkha](https://github.com/KinhkhaTran) | |
-| Analytics | [Tony](https://github.com/ttran-osu) | |
+| Web Development | [Selena](https://github.com/szheng14) | [Kinhkha](https://github.com/KinhkhaTran), [Alyssa](https://github.com/alyssalam17), [Edison](https://github.com/EdiChiu), [Tuan](https://github.com/avutuan), [Vy](https://github.com/vybuin) |
+| App Development | [Kinhkha](https://github.com/KinhkhaTran) | [Selena](https://github.com/szheng14), [Alyssa](https://github.com/alyssalam17), [Edison](https://github.com/EdiChiu), [Tuan](https://github.com/avutuan), [Vy](https://github.com/vybuin) |
+| Analytics | [Tony](https://github.com/ttran-osu) | [Charlie](https://github.com/mewtow2463), Preston |
 
 ### 2024-2025
 
@@ -43,6 +43,8 @@ Welcome to UVSA-Midwest's GitHub organization! This is where we will be hosting 
 | VIA-1 Web Development | [Brian](https://github.com/bnguyen99) | Brandon, [Martin](https://github.com/martinnguyenn), Sylvia |
 
 ## Projects
+
+### Active
 
 - [Website](https://www.uvsamidwest.org/)
 - [Web App](https://app.uvsamidwest.org/)
