@@ -6,6 +6,13 @@ Welcome to UVSA-Midwest's GitHub organization! This is where we will be hosting 
 
 ## Teams
 
+### 2026-2027
+
+| Team | Lead(s) | Members |
+| ---- | --------- | ------------ |
+| Web Development | [Alyssa](https://github.com/alyssalam17) | [Tuan](https://github.com/avutuan), [Eric](https://github.com/ericvu43), [Ethan](https://github.com/ethanpam), [Kevin](https://github.com/KDu0ng), [Winson](https://github.com/hexydexy) |
+| App Development | [Tuan](https://github.com/avutuan) | [Alyssa](https://github.com/alyssalam17), [Eric](https://github.com/ericvu43), [Ethan](https://github.com/ethanpam), [Kevin](https://github.com/KDu0ng), [Winson](https://github.com/hexydexy) |
+
 ### 2025-2026
 
 | Team | Lead(s) | Members |
